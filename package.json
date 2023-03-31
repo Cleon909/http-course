@@ -1,0 +1,23 @@
+{
+  "name": "http-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cleon909/http-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cleon909/http-course/issues"
+  },
+  "homepage": "https://github.com/Cleon909/http-course#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
